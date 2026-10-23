@@ -1,0 +1,10 @@
+# Archivos internos — NO publicar en Cloudflare Pages
+docs/
+brand/
+CONTENIDO.md
+dona-luz.html
+
+# Sistema / temporales
+.DS_Store
+Thumbs.db
+*.log
